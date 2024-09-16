@@ -4,7 +4,14 @@ Perkenalkan nama saya **Azka Amalia**.<br>
 
 Saya adalah mahasiswa di **Program Studi Teknologi Informasi** yang memiliki ketertarikan dengan fokus utama pada bidang Data Analist yang merupakan konsentrasi dari Big Data.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](linkedin.com/in/azka-amalia-297a40311)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](linkedin.com/in/azka-amalia-297a40311) ku ya.
+
+<p align="left">
+<a href="https://github.com/azk107">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azk107&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azk107&layout=compact&theme=algolia"/>
+</a>
+</p>
 
 
 
