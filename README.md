@@ -1,4 +1,12 @@
-## Hi there 👋
+# Halo semua! 👋
+
+Perkenalkan nama saya **Azka Amalia**.<br>
+
+Saya adalah mahasiswa di **Program Studi Teknologi Informasi** yang memiliki ketertarikan dengan fokus utama pada bidang Data Analist yang merupakan konsentrasi dari Big Data.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](linkedin.com/in/azka-amalia-297a40311)ku ya.
+
+
 
 <!--
 **azk107/azk107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
