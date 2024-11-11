@@ -1,10 +1,10 @@
-# Halo semua! 👋
+# Hallo! 👋
 
-Perkenalkan nama saya **Azka Amalia**.<br>
+I'm **Azka Amalia**.<br>
 
-Saya adalah mahasiswa di **Program Studi Teknologi Informasi** yang memiliki ketertarikan dengan fokus utama pada bidang Data Analist yang merupakan konsentrasi dari Big Data.<br>
+I am a student in **Information Technology Study Program** who has an interest with a main focus on the field of Data Analyst which is a concentration of Big Data.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](linkedin.com/in/azka-amalia-297a40311) ku ya.
+If you're interested in getting to know me, please follow me on [Linkedin](linkedin.com/in/azka-amalia-297a40311).
 
 <p align="left">
 <a href="https://github.com/azk107">
